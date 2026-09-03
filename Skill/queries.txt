@@ -1,4 +1,0 @@
-Pattern Search
-Fuzzy Matching
-Document Similarity
-Citation Analysis
